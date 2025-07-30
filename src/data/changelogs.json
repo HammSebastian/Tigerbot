@@ -1,0 +1,23 @@
+[
+  {
+    "version": "1.0.0",
+    "date": "29.07.2025",
+    "author": "1399912186775601275",
+    "description": "Erster Release des Discord-Bots mit grundlegenden Funktionen.",
+    "changes": [
+      "Erster Release des Discord-Bots",
+      "Twitch Live-Benachrichtigung implementiert",
+      "Basic Commands: help, ping"
+    ]
+  },
+  {
+    "version": "1.0.1",
+    "date": "30.07.2025",
+    "author": "1399912186775601275",
+    "description": "Erweiterung der Bot-Funktionen mit neuen Commands und Verbesserungen.",
+    "changes": [
+      "Hinzufügen von Ankündigungs-Command",
+      "Erweiterte Berechtigungsprüfung"
+    ]
+  }
+]
